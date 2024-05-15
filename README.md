@@ -2,7 +2,7 @@
 
 ## 💻 Languages and Frameworks:
 
-Ruby, Rails, JavaScript, React, Node.js, Python, Git, SQL, VSCode, Vue
+Ruby, Rails, JavaScript, React, Node.js, Python, Git, SQL, VSCode, Vue, Postgres
 
 ## Talk to me about:
 - Smoking brisket
