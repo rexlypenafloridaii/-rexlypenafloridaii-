@@ -5,8 +5,9 @@
 Ruby, Rails, JavaScript, React, Node.js, Python, Git, SQL, VSCode, Vue
 
 ## Talk to me about:
-- Brisket
+- Smoking brisket
 - Formula 1
+- Sneakers
 - Gundam model kits
 - Video games
 - PC hardware
